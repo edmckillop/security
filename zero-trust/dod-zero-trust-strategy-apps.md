@@ -13,7 +13,7 @@ ms.reviewer: andrmass
 # Customer intent: I'm a security architect. I need to understand the DoD Zero Trust Strategy to prioritize, deploy, and configure Zero Trust capabilities. My goal is to complete DoD Zero Trust activities for applications and workloads.
 ---
 
-# DoD Zero Trust Strategy for the applications and workloads pillar
+# DoD Zero Trust Strategy for the applications and workloads pillar 
 
 The U.S. Department of Defense (DoD) Zero Trust Portfolio Management Office (ZT PfMO) was established to orchestrate DoD-wide Zero Trust adoption and execution. In November 2022, the DoD ZT PfMO released the [DoD Zero Trust Strategy and Roadmap](https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/). 
 
